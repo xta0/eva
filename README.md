@@ -1,2 +1,4 @@
 # eva
-A simple AST based interpreter
+
+- s-expression
+- AST based interpreter
