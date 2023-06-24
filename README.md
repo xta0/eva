@@ -2,7 +2,7 @@
 
 - s-expression
 - AST based interpreter
-- Use syntax-cli to generate a parser
+- The parser is generate by the syntax-cli tool
 - BNF
 
 ```
